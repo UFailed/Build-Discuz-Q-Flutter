@@ -22,7 +22,7 @@ on:
       types: started
 
 env:
-  REPO_URL: https://github.com/virskor/DiscuzQ
+  REPO_URL: https://github.com/UFailed/DiscuzQ
   REPO_BRANCH: master
   SSH_ACTIONS: false
   TZ: Asia/Shanghai
